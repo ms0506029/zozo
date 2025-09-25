@@ -1,0 +1,10 @@
+{
+    "high_price_discount": false,
+    "auto_save_urls": true,
+    "auto_retry_failed": true,
+    "retry_count": 3,
+    "retry_delay": 5,
+    "validate_urls": true,
+    "backup_before_sync": true,
+    "log_level": "INFO"
+}
